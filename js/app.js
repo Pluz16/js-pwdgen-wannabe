@@ -4,7 +4,6 @@ const titleElement = document.getElementById('first-title')
 console.log(titleElement.innerHTML)
 
 console.log('imposto innerHTML di titleElement')
-titleElement.innerHTML = 'Creiamo Usernames'
 titleElement.className = 'title bg-secondary'
 
 
