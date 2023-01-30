@@ -10,3 +10,16 @@ prima di scrivere codice scrivete in maniere testuale tutti i passaggi che devon
 Una volta definiti tutti i passaggi risolveteli uno alla volta, piano piano, e aiutatevi con i console.log() per verificare il funzionamento del vostro codice.
 Non scoraggiatevi se non riuscire ancora a comprendere cerchi meccanismi di js, si capiranno man mano che facciamo le cose.
 Iniziate presto a fare gli esercizi! e se avete dubbi o volete un chiarimenti usate i ticket!
+
+
+
+RISOLUZIONE{
+    -Ripasso su drive, codice odierno e W3school
+}
+
+1.html
+2. Chiedo a utente nome
+3. Chiedo a utente cognome
+4.Chiedo a utente colore Preferito
+5.Chiedo a utente  numero Preferito
+6.Unione della concatenazione <nome><cognome><colorePreferito><numero>
