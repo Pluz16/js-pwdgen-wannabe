@@ -30,3 +30,5 @@ console.log(fav_number)
 // CONCATENAZIONE DI STRINGHE
  titleElement.innerHTML = message + name + surname + fav_color + fav_number
 
+
+
