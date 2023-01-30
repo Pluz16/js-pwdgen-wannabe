@@ -1,3 +1,4 @@
+
 console.log('prendo elemento html con id first-title')
 const titleElement = document.getElementById('first-title')
 
@@ -31,4 +32,5 @@ console.log(fav_number)
  titleElement.innerHTML = message + name + surname + fav_color + fav_number
 
 
+ 
 
