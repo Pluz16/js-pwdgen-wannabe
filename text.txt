@@ -1,0 +1,12 @@
+Chiedi all’utente il suo nome,
+poi chiedi il suo cognome,
+poi chiedi il suo colore preferito
+e un numero
+Infine scrivi sulla pagina il risultato della concatenazione di: <nome><cognome><colorePreferito><numero>
+es. GianlucaLomarcoRosso108
+Consigli:
+come ho detto in classe
+prima di scrivere codice scrivete in maniere testuale tutti i passaggi che devono essere eseguiti, come abbiamo imparato a fare venerdi scorso.
+Una volta definiti tutti i passaggi risolveteli uno alla volta, piano piano, e aiutatevi con i console.log() per verificare il funzionamento del vostro codice.
+Non scoraggiatevi se non riuscire ancora a comprendere cerchi meccanismi di js, si capiranno man mano che facciamo le cose.
+Iniziate presto a fare gli esercizi! e se avete dubbi o volete un chiarimenti usate i ticket!
